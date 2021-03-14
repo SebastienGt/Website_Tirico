@@ -94,16 +94,16 @@ p{
 
 /* Header Styles
 ---------------------------------*/
-video#bgvid {
+/*.header video {
 	position: fixed; right: 0; bottom: 0;
 	min-width: 100%; min-height: 100%;
 	width: auto; height: auto; z-index: -100;
-	/*background: url(polina.jpg) no-repeat;*/
-	background-size: cover;
-  }
+	background: url(polina.jpg) no-repeat;
+	background-size:cover;
+}*/
 .header{
 	text-align:center;
-	/*background:url(../img/pw_maze_black_2X.png) left top repeat;*/
+	background:url(../img/jt.jpg) left top repeat;
 	
 	padding:280px 0;
 }
